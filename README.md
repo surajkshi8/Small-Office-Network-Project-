@@ -20,6 +20,9 @@ This project shows a basic small office network built in Cisco Packet Tracer. It
 ## Purpose
 This is for learning and practice. Anyone who is starting with networking can use it as a simple example.
 
+
+
+
 ## Requirements
 - Cisco Packet Tracer 8.x or newer
 
