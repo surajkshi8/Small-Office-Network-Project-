@@ -5,26 +5,18 @@ This project is a small office network made in Cisco Packet Tracer. It shows how
 
 This project shows a basic small office network built in Cisco Packet Tracer. It includes a router, switches and a few PCs. The goal is to show how a simple office setup works and how the devices talk to each other.
 
-## What’s inside
+# What’s inside
 - Basic IP setup  
 - Simple routing  
 - PC to PC communication  
 - A clear layout that’s easy to follow  
 
-## How to use
+# How to use
 1. Open the Packet Tracer file.
 2. Check the IP settings on each device.
 3. Try sending pings between the PCs.
 4. Adjust the setup if you want to learn more.
 
-## Purpose
-This is for learning and practice. Anyone who is starting with networking can use it as a simple example.
-
-
-
-
-## Requirements
+# Requirements
 - Cisco Packet Tracer 8.x or newer
 
-## Author
-Created for practice and to share a simple small office design.
